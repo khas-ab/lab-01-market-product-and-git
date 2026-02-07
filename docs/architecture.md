@@ -44,8 +44,10 @@ The mobile app can be installed on users smartphone or computer. MTProto Gateway
 
 ## Assumptions
 
-I assume that State Cache is for temporary data.
+* I assume that State Cache is for temporary data.
+* I assume that the file splits into parts while Media Upload.
 
 ## Open questions
 
-What does 3rd Parts Bot Servers do?
+* What does 3rd Parts Bot Servers do?
+* How does push provider work?
